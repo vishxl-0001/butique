@@ -1,0 +1,45 @@
+{
+  "rating": "4,2",
+  "reviewCount": 93,
+  "source": "Avis vérifiés Google",
+  "sourceUrl": "https://www.google.com/search?q=rue+des+princesses+perpignan",
+  "disclaimer": "Les témoignages ci-dessous sont des exemples de démonstration (noms et prénoms d'emprunt). La note globale et le nombre d'avis sont les chiffres publics réels de l'atelier.",
+  "items": [
+    {
+      "id": "1",
+      "auteur": "Inès M.",
+      "ville": "Perpignan",
+      "occasion": "Mariage civil & religieux",
+      "robe": "Aurore",
+      "note": 5,
+      "texte": "Le moment où j'ai essayé la traîne avec ma maman et mes sœurs dans le salon privé… des larmes d'émotion. Le travail des cristaux sous la lumière est à couper le souffle. L'équipe a été adorable du début jusqu'au dernier ajustement."
+    },
+    {
+      "id": "2",
+      "auteur": "Sarah B.",
+      "ville": "Canet-en-Roussillon",
+      "occasion": "Mariage d'exception",
+      "robe": "Éléonore",
+      "note": 5,
+      "texte": "Je cherchais une vraie robe de princesse avec du volume et des détails étincelants, introuvable ailleurs dans la région. Dès mon entrée dans l'église, tout le monde s'est retourné. Merci d'avoir réalisé ce rêve d'enfant !"
+    },
+    {
+      "id": "3",
+      "auteur": "Camille D.",
+      "ville": "Narbonne",
+      "occasion": "Mariage en château",
+      "robe": "Cendrine",
+      "note": 5,
+      "texte": "Un savoir-faire artisanal rare. Les fleurs en trois dimensions cousues sur les manches sont d'une finesse incroyable. Les retouches étaient millimétrées. Une expérience inoubliable."
+    },
+    {
+      "id": "4",
+      "auteur": "Leila K.",
+      "ville": "Perpignan",
+      "occasion": "Fiançailles féeriques",
+      "robe": "Célestine (Bleu glacé)",
+      "note": 5,
+      "texte": "Pour mes fiançailles, je voulais une robe de bal somptueuse en bleu glacé. Les cascades de tulle ont fait sensation toute la soirée. La coupe mettait parfaitement ma taille en valeur."
+    }
+  ]
+}

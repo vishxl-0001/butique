@@ -1,0 +1,56 @@
+[
+  {
+    "id": "reel-1",
+    "titre": "L'entrée majestueuse : traîne cathédrale de 5 mètres",
+    "vues": "34.2K",
+    "duree": "0:24",
+    "image": "/images/real/real-cathedral-train-hall.jpg",
+    "description": "Le frisson de la salle quand la traîne se déploie. Un moment gravé à jamais.",
+    "instagramUrl": "https://www.instagram.com/rue_des_princesses_66/"
+  },
+  {
+    "id": "reel-2",
+    "titre": "Dans le secret de l'atelier : pose des fleurs 3D",
+    "vues": "28.9K",
+    "duree": "0:19",
+    "image": "/images/real/real-mannequin-corset-flowers.jpg",
+    "description": "Des heures de patience et d'amour pour chaque pétale d'organza cousu main.",
+    "instagramUrl": "https://www.instagram.com/rue_des_princesses_66/"
+  },
+  {
+    "id": "reel-3",
+    "titre": "Éclat d'or et cristaux sous les projecteurs",
+    "vues": "41.6K",
+    "duree": "0:30",
+    "image": "/images/real/real-bride-glitter-ballgown.jpg",
+    "description": "Quand la lumière caresse le corset serti de micro-cristaux scintillants.",
+    "instagramUrl": "https://www.instagram.com/rue_des_princesses_66/"
+  },
+  {
+    "id": "reel-4",
+    "titre": "Séance féerique sous la gloriette d'un parc",
+    "vues": "19.5K",
+    "duree": "0:22",
+    "image": "/images/real/real-bride-gazebo-train.jpg",
+    "description": "La robe Capucine et son tombé royal en mouvement au grand air.",
+    "instagramUrl": "https://www.instagram.com/rue_des_princesses_66/"
+  },
+  {
+    "id": "reel-5",
+    "titre": "Le voile cathédrale brodé en dentelle",
+    "vues": "22.1K",
+    "duree": "0:15",
+    "image": "/images/real/real-couple-veil.jpg",
+    "description": "La légèreté d'un voile qui flotte avec une délicatesse infinie.",
+    "instagramUrl": "https://www.instagram.com/rue_des_princesses_66/"
+  },
+  {
+    "id": "reel-6",
+    "titre": "L'incomparable robe bleu glacier",
+    "vues": "37.8K",
+    "duree": "0:28",
+    "image": "/images/robe-bleu-glace.jpg",
+    "description": "Une teinte unique conçue pour les fiançailles les plus spectaculaires.",
+    "instagramUrl": "https://www.instagram.com/rue_des_princesses_66/"
+  }
+]

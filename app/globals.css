@@ -1,0 +1,164 @@
+@import "tailwindcss";
+
+:root {
+  --nuit: #0E0B12;
+  --nuit-2: #17121C;
+  --nuit-3: #221A2A;
+  --ivoire: #F8F2EA;
+  --creme: #EFE6DA;
+  --cristal: #D9D5E4;
+  --champagne: #D8BE8F;
+  --or: #B8935A;
+  --rose: #D4688A;
+  --rose-hover: #BF5374;
+  --bleu-glace: #A9C8E8;
+}
+
+@theme {
+  --color-nuit: #0E0B12;
+  --color-nuit-2: #17121C;
+  --color-nuit-3: #221A2A;
+  --color-ivoire: #F8F2EA;
+  --color-creme: #EFE6DA;
+  --color-cristal: #D9D5E4;
+  --color-champagne: #D8BE8F;
+  --color-or: #B8935A;
+  --color-rose: #D4688A;
+  --color-rose-hover: #BF5374;
+  --color-bleu-glace: #A9C8E8;
+  --font-serif: var(--font-bodoni), "Bodoni MT", Didot, Georgia, serif;
+  --font-script: var(--font-pinyon), cursive, Georgia, serif;
+  --font-sans: var(--font-hanken), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Base resets & typography */
+html {
+  scroll-behavior: smooth;
+  background-color: var(--nuit);
+  color: var(--ivoire);
+  font-family: var(--font-hanken), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: var(--nuit);
+  color: var(--ivoire);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Luxury film grain overlay */
+.film-grain {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.028;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+/* Arched doorway mask */
+.arch-mask {
+  border-radius: 999px 999px 0 0;
+  overflow: hidden;
+}
+
+/* Fluid H1 */
+.font-display-fluid {
+  font-family: var(--font-bodoni), Didot, Georgia, serif;
+  font-size: clamp(2.5rem, 8vw, 6.5rem);
+  line-height: 0.98;
+  letter-spacing: -0.02em;
+}
+
+.font-sub-fluid {
+  font-family: var(--font-bodoni), Didot, Georgia, serif;
+  font-size: clamp(1.8rem, 4vw, 3.2rem);
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+}
+
+/* Small caps luxury labels */
+.label-small-caps {
+  font-family: var(--font-hanken), sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  font-weight: 500;
+}
+
+/* Button shine sweep animation */
+.btn-shine-sweep {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.btn-shine-sweep::after {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -60%;
+  width: 40%;
+  height: 200%;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.4) 50%,
+    transparent 100%
+  );
+  transform: rotate(25deg);
+  pointer-events: none;
+  transition: all 0.7s ease;
+}
+.btn-shine-sweep:hover::after {
+  left: 140%;
+}
+
+/* Spotlight radial gradients */
+.spotlight-radial {
+  background: radial-gradient(
+    ellipse 70% 60% at 50% 0%,
+    rgba(216, 190, 143, 0.12) 0%,
+    rgba(14, 11, 18, 0) 80%
+  );
+}
+
+.spotlight-stage {
+  background: radial-gradient(
+    circle 800px at 50% 20%,
+    rgba(217, 213, 228, 0.08) 0%,
+    rgba(23, 18, 28, 0.4) 40%,
+    rgba(14, 11, 18, 1) 90%
+  );
+}
+
+/* Clean custom scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: var(--nuit);
+}
+::-webkit-scrollbar-thumb {
+  background: #342842;
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--rose);
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

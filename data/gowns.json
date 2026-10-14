@@ -1,0 +1,157 @@
+[
+  {
+    "id": "aurore",
+    "nom": "Aurore",
+    "silhouette": "Robe de bal",
+    "matiere": "Satin duchesse & Cristaux",
+    "decollete": "Bustier cœur",
+    "manches": "Sans",
+    "traine": "Cathédrale (4,5 m)",
+    "details": ["Cristaux Swarovski", "Traîne cathédrale", "Corset structuré"],
+    "prix": "Sur rendez-vous",
+    "description": "Une silhouette impériale au volume magistral. Le corset structuré serti de cristaux taillés s'épanouit en une traîne cathédrale déployée avec majesté.",
+    "image": "/images/hero-gown-dark.jpg",
+    "badge": "Signature Atelier",
+    "couleurDefault": "Ivoire",
+    "hotspots": [
+      { "top": "34%", "left": "48%", "label": "Corset serti de cristaux Swarovski taillés main" },
+      { "top": "58%", "left": "38%", "label": "Plis creux sculptés en satin duchesse lourd" },
+      { "top": "82%", "left": "52%", "label": "Traîne cathédrale déployée sur 4,5 mètres" }
+    ]
+  },
+  {
+    "id": "cendrine",
+    "nom": "Cendrine",
+    "silhouette": "Robe de bal",
+    "matiere": "Organza de soie & Tulle brodé",
+    "decollete": "Illusion & Cœur",
+    "manches": "Longues dentelle",
+    "traine": "Chapelle",
+    "details": ["Fleurs 3D", "Dentelle", "Manches illusion"],
+    "prix": "Sur rendez-vous",
+    "description": "Féerie botanique de haute couture. Des centaines de fleurs sculptées en trois dimensions et broderies de perles grimpent délicatement le long des manches en tulle illusion.",
+    "image": "/images/real/real-mannequin-corset-flowers.jpg",
+    "badge": "Fleurs 3D Cousues Main",
+    "couleurDefault": "Ivoire",
+    "hotspots": [
+      { "top": "28%", "left": "50%", "label": "Pétales d'organza 3D cousus un à un à la main" },
+      { "top": "40%", "left": "70%", "label": "Manches en dentelle illusion perlée" },
+      { "top": "68%", "left": "45%", "label": "Jupe volumineuse en cascades de dentelle florale" }
+    ]
+  },
+  {
+    "id": "eleonore",
+    "nom": "Éléonore",
+    "silhouette": "Robe de bal",
+    "matiere": "Dentelle perlée & Tulle scintillant",
+    "decollete": "Bustier décolleté plongeant",
+    "manches": "Bretelles fines",
+    "traine": "Cathédrale (5 m)",
+    "details": ["Cristaux", "Paillettes scintillantes", "Traîne cathédrale"],
+    "prix": "Sur rendez-vous",
+    "description": "L'éclat absolu d'une reine des mille et une nuits. Une pluie scintillante de paillettes et de perles de cristal qui capte la lumière sous chaque angle.",
+    "image": "/images/real/real-bride-glitter-ballgown.jpg",
+    "badge": "Coup de Cœur Salons",
+    "couleurDefault": "Ivoire",
+    "hotspots": [
+      { "top": "30%", "left": "52%", "label": "Décolleté cœur orné de micro-cristaux scintillants" },
+      { "top": "65%", "left": "48%", "label": "Broderies de paillettes reflétant la lumière" },
+      { "top": "85%", "left": "40%", "label": "Volume spectaculaire avec cerceaux couture" }
+    ]
+  },
+  {
+    "id": "solenne",
+    "nom": "Solenne",
+    "silhouette": "Robe de bal",
+    "matiere": "Cascades de tulle & Ruffled bustle",
+    "decollete": "Dos nu & Bustier",
+    "manches": "Sans",
+    "traine": "Cathédrale spectaculaire",
+    "details": ["Volants vaporeux", "Traîne XXL", "Cristaux"],
+    "prix": "Sur rendez-vous",
+    "description": "L'entrée théâtrale par excellence. Des volants étagés vaporeux créent une traîne monumentale qui ondule comme une vague de lumière dans l'allée d'honneur.",
+    "image": "/images/real/real-cathedral-train-hall.jpg",
+    "badge": "Volume Sensationnel",
+    "couleurDefault": "Ivoire",
+    "hotspots": [
+      { "top": "42%", "left": "50%", "label": "Bustier baleiné sculptant la taille à la perfection" },
+      { "top": "70%", "left": "52%", "label": "Ruches de tulle soyeux drapées pour une traîne sans fin" }
+    ]
+  },
+  {
+    "id": "capucine",
+    "nom": "Capucine",
+    "silhouette": "Robe de bal",
+    "matiere": "Satin royal & Dentelle vénitienne",
+    "decollete": "Bateau délicat",
+    "manches": "Manches courtes drapées",
+    "traine": "Cathédrale (4 m)",
+    "details": ["Satin noble", "Traîne cathédrale", "Dentelle"],
+    "prix": "Sur rendez-vous",
+    "description": "Élégance princière intemporelle. Un satin d'un tombé majestueux sublimé par une traîne démesurée et un décolleté royal d'une pureté saisissante.",
+    "image": "/images/real/real-bride-gazebo-train.jpg",
+    "badge": "Majesté Royale",
+    "couleurDefault": "Ivoire",
+    "hotspots": [
+      { "top": "32%", "left": "55%", "label": "Corsage en satin au lustre poudré" },
+      { "top": "80%", "left": "45%", "label": "Étendue satinée capturant la lumière naturelle" }
+    ]
+  },
+  {
+    "id": "theodora",
+    "nom": "Théodora",
+    "silhouette": "Sirène & sur-jupe",
+    "matiere": "Micro-cristaux & Dentelle de Chantilly",
+    "decollete": "Cœur plongeant",
+    "manches": "Sans",
+    "traine": "Chapelle avec sur-jupe amovible",
+    "details": ["Corset cristaux", "Fleurs 3D", "Sur-jupe amovible"],
+    "prix": "Sur rendez-vous",
+    "description": "La quintessence de l'artisanat joaillier appliqué au textile. Un corset bijou entièrement serti de cristaux, associé à une sur-jupe amovible pour transformer la robe entre la cérémonie et la soirée.",
+    "image": "/images/corset-cristaux-macro.jpg",
+    "badge": "Corset Joaillerie",
+    "couleurDefault": "Ivoire",
+    "hotspots": [
+      { "top": "35%", "left": "46%", "label": "Incrustation de strass et perles au millimètre" },
+      { "top": "60%", "left": "54%", "label": "Baleines corsetées épousant les courbes féminines" }
+    ]
+  },
+  {
+    "id": "celestine",
+    "nom": "Célestine",
+    "silhouette": "Robe de bal",
+    "matiere": "Tulle vaporeux teinté bleu glacé",
+    "decollete": "Bustier drapé cœur",
+    "manches": "Bretelles de tulle tombantes",
+    "traine": "Chapelle",
+    "details": ["Couleur bleu glacé", "Tulle plissé", "Volants féeriques"],
+    "prix": "Sur rendez-vous",
+    "description": "Notre pièce d'apparat pour fiançailles, henné et cérémonies d'exception. Une nuée de tulle bleu glacier étagé créant une aura de princesse de conte moderne.",
+    "image": "/images/robe-bleu-glace.jpg",
+    "badge": "Cérémonie & Fiançailles",
+    "couleurDefault": "Bleu glacé",
+    "hotspots": [
+      { "top": "30%", "left": "50%", "label": "Bustier plissé main dans une teinte glacier unique" },
+      { "top": "65%", "left": "45%", "label": "Cascade de volants en organza aérien" }
+    ]
+  },
+  {
+    "id": "anaelle",
+    "nom": "Anaëlle",
+    "silhouette": "Sirène & sur-jupe",
+    "matiere": "Dentelle de Calais & Voile cathédrale",
+    "decollete": "Épaules dénudées",
+    "manches": "Manches longues amovibles",
+    "traine": "Cathédrale (4 m)",
+    "details": ["Voile cathédrale", "Dentelle", "Épaules dénudées"],
+    "prix": "Sur rendez-vous",
+    "description": "Romantisme gracieux et glamour intemporel. Les épaules dénudées s'associent à un voile cathédrale bordé d'arabesques de dentelle fine brodée.",
+    "image": "/images/real/real-couple-veil.jpg",
+    "badge": "Romantisme Pur",
+    "couleurDefault": "Ivoire",
+    "hotspots": [
+      { "top": "22%", "left": "35%", "label": "Voile cathédrale bordé d'arabesques florales" },
+      { "top": "45%", "left": "48%", "label": "Décolleté drapé en soie et manches de dentelle" }
+    ]
+  }
+]

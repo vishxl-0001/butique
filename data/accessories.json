@@ -1,0 +1,42 @@
+[
+  {
+    "id": "acc-1",
+    "nom": "Voile Cathédrale Dentelle Royale",
+    "categorie": "Voiles",
+    "matiere": "Tulle de soie & Dentelle de Chantilly festonnée",
+    "longueur": "4,20 mètres",
+    "description": "Un voile magistral brodé d'arabesques florales sur toute la bordure. Il sublime l'avancée de la mariée d'un nuage de douceur.",
+    "image": "/images/accessoires-flatlay.jpg",
+    "prix": "Sur rendez-vous"
+  },
+  {
+    "id": "acc-2",
+    "nom": "Couronne Royale Saphir & Cristaux",
+    "categorie": "Couronnes & Tiaras",
+    "matiere": "Alliage doré à l'or fin, cristaux Swarovski taille poire",
+    "longueur": "Hauteur 6,5 cm",
+    "description": "La tiare impériale des princesses modernes. Ses pierres taillées captent chaque faisceau lumineux pour illuminer le visage.",
+    "image": "/images/real/real-bride-glitter-ballgown.jpg",
+    "prix": "Sur rendez-vous"
+  },
+  {
+    "id": "acc-3",
+    "nom": "Gants d'Apparat Résille & Dentelle",
+    "categorie": "Gants",
+    "matiere": "Dentelle de Calais et micro-perles nacrées",
+    "longueur": "Mi-bras ou poignet",
+    "description": "Finesse d'un bijou de main couture. Des gants en illusion transparente sertis de perles pour une gestuelle d'une grâce absolue.",
+    "image": "/images/accessoires-flatlay.jpg",
+    "prix": "Sur rendez-vous"
+  },
+  {
+    "id": "acc-4",
+    "nom": "Coiffe d'Art Plumes & Fleurs de Porcelaine",
+    "categorie": "Coiffes & Bijoux de tête",
+    "matiere": "Plumes immaculées, fleurs modelées main et étamines de cristal",
+    "longueur": "Pièce unique",
+    "description": "Une création artisanale poétique et aérienne qui s'enroule gracieusement dans les coiffures hautes ou les boucles libres.",
+    "image": "/images/coiffe-plumes.jpg",
+    "prix": "Sur rendez-vous"
+  }
+]

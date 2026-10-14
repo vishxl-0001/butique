@@ -1,0 +1,38 @@
+[
+  {
+    "id": "delai",
+    "question": "Combien de temps faut-il prévoir pour une robe sur mesure ?",
+    "reponse": "Nous recommandons d'initier vos essayages 4 à 8 mois avant la date de votre union afin d'assurer la confection minutieuse, les broderies artisanales et les séances d'ajustement. Pour les projets plus urgents, un calendrier accéléré peut être étudié selon les disponibilités de notre atelier à Perpignan.",
+    "aConfirmer": true
+  },
+  {
+    "id": "accompagnateurs",
+    "question": "Puis-je venir accompagnée lors de mes essayages ?",
+    "reponse": "Absolument. Nous vous accueillons dans notre salon privé et vous invitons à venir accompagnée de 2 à 3 personnes proches de votre choix (maman, sœur, amie) pour partager ce moment intime et émouvant autour d'une coupe ou d'un rafraîchissement.",
+    "aConfirmer": false
+  },
+  {
+    "id": "retouches",
+    "question": "Faites-vous les retouches et ajustements sur place ?",
+    "reponse": "Oui, toutes les retouches et finitions sont intégralement réalisées par nos artisanes couturières dans notre atelier perpignanais. Du maintien du corset à l'ourlet précis selon la cambrure de vos souliers, chaque détail est calé au millimètre.",
+    "aConfirmer": false
+  },
+  {
+    "id": "couleurs",
+    "question": "Puis-je commander ma robe dans une couleur personnalisée ?",
+    "reponse": "Chaque modèle de notre atelier peut être décliné selon vos envies : ivoire nacré, blanc de soie, blush poudré, champagne royal, ou encore notre teinte signature bleu glacé plébiscitée pour les fiançailles et réceptions de prestige.",
+    "aConfirmer": false
+  },
+  {
+    "id": "premier-rdv",
+    "question": "Comment se déroule le premier rendez-vous découverte ?",
+    "reponse": "Ce premier rendez-vous de découverte dure environ 1h15 à 1h30. Sans aucun engagement, nous étudions vos inspirations, la morphologie de votre silhouette, le thème de votre cérémonie et nous vous faisons essayer différentes lignes de robes afin de révéler celle qui vous fera vibrer.",
+    "aConfirmer": false
+  },
+  {
+    "id": "budget",
+    "question": "Quelle est la fourchette de prix pour une création de l'atelier ?",
+    "reponse": "Nos créations sont confectionnées sur mesure avec des matières nobles (soie, dentelle de Calais, cristaux Swarovski). Les tarifs s'établissent sur devis personnalisé lors de votre rendez-vous selon la complexité du patron, l'ampleur de la traîne et les heures de broderie nécessaires.",
+    "aConfirmer": true
+  }
+]
